@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nicolas-amabile/toggler/issues"
   },
-  "homepage": "https://github.com/nicolas-amabile/toggler#readme"
+  "homepage": "https://github.com/nicolas-amabile/toggler#readme",
+  "dependencies": {
+    "react": "^15.0.1"
+  }
 }
