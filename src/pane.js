@@ -15,4 +15,4 @@ Pane.propTypes = {
   children: React.PropTypes.element.isRequired
 };
 
-export default class Pane;
+export default Pane;
