@@ -1,0 +1,26 @@
+{
+  "name": "toggler",
+  "version": "1.0.0",
+  "description": "Fist version of toggle component",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolas-amabile/toggler.git"
+  },
+  "keywords": [
+    "toggle",
+    "tabs"
+  ],
+  "author": "nicolas-amabile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolas-amabile/toggler/issues"
+  },
+  "homepage": "https://github.com/nicolas-amabile/toggler#readme"
+}
