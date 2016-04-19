@@ -1,7 +1,7 @@
 {
   "name": "toggler",
   "version": "1.0.0",
-  "description": "Fist version of toggle component",
+  "description": "Fist version of toggle react-component",
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -22,6 +22,13 @@
   "bugs": {
     "url": "https://github.com/nicolas-amabile/toggler/issues"
   },
+  "keywords": [
+   "react",
+   "react-component",
+   "toggle",
+   "tabs",
+   "tab"
+  ],
   "homepage": "https://github.com/nicolas-amabile/toggler#readme",
   "dependencies": {
     "react": "^15.0.1"
