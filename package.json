@@ -1,7 +1,12 @@
 {
   "name": "toggler",
+<<<<<<< HEAD
   "version": "1.0.1",
   "description": "Fist version of toggle component",
+=======
+  "version": "1.0.0",
+  "description": "Fist version of toggle react-component",
+>>>>>>> develop
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -15,7 +20,8 @@
   },
   "keywords": [
     "toggle",
-    "tabs"
+    "tabs",
+    "react-component"
   ],
   "author": "nicolas-amabile",
   "license": "MIT",
