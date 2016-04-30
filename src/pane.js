@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Pane extends Component {
   render() {
     return (
-      <div className='tabs-label'>
+      <div className={this.props.paneClass}>
         {this.props.children}
       </div>
     );
@@ -12,6 +12,7 @@ class Pane extends Component {
 
 Pane.propTypes = {
   label: React.PropTypes.string.isRequired,
+  paneClass: React.PropTypes.string,
   children: React.PropTypes.element.isRequired
 };
 
