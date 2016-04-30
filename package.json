@@ -2,11 +2,13 @@
   "name": "toggler",
   "version": "1.0.6",
   "description": "Fist version of toggle component",
+  "main": "bundle.js",
   "directories": {
     "src": "src"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "repository": {
     "type": "git",
@@ -36,6 +38,7 @@
     "eslint": "^2.8.0",
     "eslint-plugin-react": "^5.0.1",
     "grunt": "^1.0.1",
-    "webpack": "^1.13.0"
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
   }
 }
