@@ -1,2 +1,2 @@
-import Tabs from './src/tabs.js';
-import Pane from './src/pane.js';
+export const Tabs = require('./src/tabs.js');
+export const Pane = require('./src/pane.js');
