@@ -51,14 +51,24 @@
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var __WEBPACK_AMD_DEFINE_RESULT__;'use strict';
+	'use strict';
 
-	!(__WEBPACK_AMD_DEFINE_RESULT__ = function (require, exports, module) {
-	  module.exports = {
-	    Tabs: __webpack_require__(2),
-	    Pane: __webpack_require__(34)
-	  };
-	}.call(exports, __webpack_require__, exports, module), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _tabs = __webpack_require__(2);
+
+	var _tabs2 = _interopRequireDefault(_tabs);
+
+	var _pane = __webpack_require__(34);
+
+	var _pane2 = _interopRequireDefault(_pane);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	exports.default = _tabs2.default;
+	exports.default = _pane2.default;
 
 /***/ },
 /* 2 */
