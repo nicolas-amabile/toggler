@@ -1,6 +1,5 @@
-define(function (require, exports, module) {
-  module.exports = {
-    Tabs: require('./src/tabs.js'),
-    Pane: require('./src/pane.js')
-  };
-});
+import Tabs from './src/tabs.js';
+import Pane from './src/pane.js';
+
+export default Tabs;
+export default Pane;
