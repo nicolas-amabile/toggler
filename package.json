@@ -1,6 +1,6 @@
 {
   "name": "toggler",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Fist version of toggle component",
   "main": "bundle.js",
   "directories": {
