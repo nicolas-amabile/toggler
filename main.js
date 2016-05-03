@@ -1,5 +1,2 @@
-// import Tabs from './src/tabs.js';
-// import Pane from './src/pane.js';
-
-export let Tabs = require('./src/tabs.js');
-export let Pane = require('./src/pane.js');
+module.exports = require('./src/tabs.js');
+module.exports = require('./src/pane.js');
