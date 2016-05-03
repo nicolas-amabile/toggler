@@ -53,14 +53,8 @@
 
 	'use strict';
 
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-	// import Tabs from './src/tabs.js';
-	// import Pane from './src/pane.js';
-
-	var Tabs = exports.Tabs = __webpack_require__(2);
-	var Pane = exports.Pane = __webpack_require__(34);
+	module.exports = __webpack_require__(2);
+	module.exports = __webpack_require__(34);
 
 /***/ },
 /* 2 */
