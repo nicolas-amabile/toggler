@@ -1,4 +1,4 @@
-import Tabs from './src/tabs.js';
-import Pane from './src/pane.js';
+import Tabs from './tabs.js';
+import Pane from './pane.js';
 
 export { Tabs, Pane };
