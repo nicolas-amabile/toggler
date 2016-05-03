@@ -53,10 +53,23 @@
 
 	'use strict';
 
-	module.exports = {
-	  Tabs: __webpack_require__(2),
-	  Pane: __webpack_require__(34)
-	};
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+	exports.Pane = exports.Tabs = undefined;
+
+	var _tabs = __webpack_require__(2);
+
+	var _tabs2 = _interopRequireDefault(_tabs);
+
+	var _pane = __webpack_require__(34);
+
+	var _pane2 = _interopRequireDefault(_pane);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	exports.Tabs = _tabs2.default;
+	exports.Pane = _pane2.default;
 
 /***/ },
 /* 2 */
