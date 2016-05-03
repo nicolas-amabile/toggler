@@ -53,8 +53,10 @@
 
 	'use strict';
 
-	module.exports = __webpack_require__(2);
-	module.exports = __webpack_require__(34);
+	module.exports = {
+	  Tabs: __webpack_require__(2),
+	  Pane: __webpack_require__(34)
+	};
 
 /***/ },
 /* 2 */

@@ -1,2 +1,4 @@
-module.exports = require('./src/tabs.js');
-module.exports = require('./src/pane.js');
+module.exports = {
+  Tabs: require('./src/tabs.js'),
+  Pane: require('./src/pane.js')
+};
