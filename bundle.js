@@ -56,19 +56,11 @@
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
+	// import Tabs from './src/tabs.js';
+	// import Pane from './src/pane.js';
 
-	var _tabs = __webpack_require__(2);
-
-	var _tabs2 = _interopRequireDefault(_tabs);
-
-	var _pane = __webpack_require__(34);
-
-	var _pane2 = _interopRequireDefault(_pane);
-
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-	exports.default = _tabs2.default;
-	exports.default = _pane2.default;
+	var Tabs = exports.Tabs = __webpack_require__(2);
+	var Pane = exports.Pane = __webpack_require__(34);
 
 /***/ },
 /* 2 */
