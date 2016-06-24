@@ -1,7 +1,4 @@
-import Tabs from './tabs.js';
-import Pane from './pane.js';
-
 module.exports = {
-  Tabs,
-  Pane
+  Tabs: require('./tabs.js'),
+  Pane: require('./pane.js')
 };
