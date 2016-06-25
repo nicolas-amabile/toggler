@@ -1,7 +1,7 @@
 {
   "name": "toggler",
   "version": "1.0.30",
-  "description": "Fist version of toggle component",
+  "description": "Fist version of toggler component",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
