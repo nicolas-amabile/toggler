@@ -37,7 +37,7 @@ export default class App extends Component {
 
 ### Working example
 
-The code is located under [example] folder.
+The code is located under [example](example/) folder.
 
 First, clone the project.
 ```shell
@@ -46,7 +46,7 @@ git clone git@github.com:nicolas-amabile/toggler.git
 Install `node`. Then,
 
 ```shell
-cd toggler/examples/
+cd toggler/example/
 npm install
 npm start
 ```
