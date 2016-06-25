@@ -1,6 +1,6 @@
 {
   "name": "toggler",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "Fist version of toggler component",
   "main": "lib/index.js",
   "scripts": {
