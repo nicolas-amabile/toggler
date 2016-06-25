@@ -69,4 +69,4 @@ Tabs.propTypes = {
   ]).isRequired
 };
 
-export default Tabs;
+module.exports = Tabs;
