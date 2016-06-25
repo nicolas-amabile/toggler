@@ -1,6 +1,6 @@
 {
   "name": "toggler",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "Fist version of toggle component",
   "main": "main.js",
   "scripts": {
