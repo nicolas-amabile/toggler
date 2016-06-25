@@ -4,7 +4,7 @@
   "description": "Fist version of toggle component",
   "main": "main.js",
   "scripts": {
-    "build": "jsx src/index.js > main.js",
+    "build": "jsx src/index.jsx > main.js",
     "prepublish": "npm run build"
   },
   "files": [
