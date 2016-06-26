@@ -1,5 +1,6 @@
 # Toggler
 
+![toggler-example](http://i.imgur.com/JPON4V3.gif)
 
 ## Quick start: SimpleMap
 
